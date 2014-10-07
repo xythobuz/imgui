@@ -2,13 +2,7 @@
 # Cross Platform Make file
 #
 # Compatible with Ubuntu 14.04.1 and Mac OS X
-#
-#
-# if you using Mac OS X:
-#  You should install glew via homebrew
-#    brew install glew
-#  Also you'll need glfw
-#    http://www.glfw.org
+
 #
 
 CXX = g++
